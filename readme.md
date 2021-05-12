@@ -19,3 +19,5 @@ experiment2(model, dataset, images_per_class,  iterations, network_steps):
 #--iterations: 1000
 #--network_steps: 1
 ```
+
+Original Paper: https://openreview.net/pdf?id=mSAKhLYLSsl
